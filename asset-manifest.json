@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dsn-project.git/static/css/main.e3376a5f.css",
+    "main.js": "/dsn-project.git/static/js/main.2e80356d.js",
+    "static/js/453.76dbf072.chunk.js": "/dsn-project.git/static/js/453.76dbf072.chunk.js",
+    "index.html": "/dsn-project.git/index.html",
+    "main.e3376a5f.css.map": "/dsn-project.git/static/css/main.e3376a5f.css.map",
+    "main.2e80356d.js.map": "/dsn-project.git/static/js/main.2e80356d.js.map",
+    "453.76dbf072.chunk.js.map": "/dsn-project.git/static/js/453.76dbf072.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3376a5f.css",
+    "static/js/main.2e80356d.js"
+  ]
+}
